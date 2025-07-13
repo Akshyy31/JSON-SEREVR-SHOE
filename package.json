@@ -13,5 +13,13 @@
   "type": "commonjs",
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshyy31/JSON-SEREVR-SHOE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akshyy31/JSON-SEREVR-SHOE/issues"
+  },
+  "homepage": "https://github.com/Akshyy31/JSON-SEREVR-SHOE#readme"
 }
